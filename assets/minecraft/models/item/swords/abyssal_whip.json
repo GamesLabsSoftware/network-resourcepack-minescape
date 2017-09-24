@@ -1,0 +1,28 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "weapons/abyssal_whip"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 65 ],
+            "translation": [ 0, 1, -4 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 180, -90, 90 ],
+            "translation": [ 0, 5, -4 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+          "rotation": [ 0, 90, 65 ],
+          "translation": [ 0, 1, -4 ],
+          "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 180, -90, 90 ],
+            "translation": [ 0, 5, -4 ],
+            "scale": [ 1, 1, 1 ]
+        }
+    }
+}

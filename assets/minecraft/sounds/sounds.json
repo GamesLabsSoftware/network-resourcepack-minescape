@@ -1,0 +1,6 @@
+{
+"scream":{
+"sounds":[{"name":"halloween/scream","stream":false}],"category":"master"},
+"creepytune":{
+"sounds":[{"name":"halloween/creepytune","stream":false}],"category":"master"}
+}
