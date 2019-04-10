@@ -1,6 +1,9 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "weapons/mithril_pickaxe"
-    }
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"bronze_pickaxe": "swords/mithril_pickaxe"
+	},
+	"parent": {
+		"bronze": "item/swords/bronze_pickaxe"
+	}
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "item/all/hats/climber_bandana",
+  "textures": {
+		"climber_bandana": "all/hats/climber_bandana_off"
+	}
+}

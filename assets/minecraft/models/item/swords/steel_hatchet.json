@@ -1,6 +1,9 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "weapons/steel_hatchet"
-    }
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"bronze_axe": "swords/steel_hatchet"
+	},
+	"parent": {
+		"bronze": "item/swords/bronze_axe"
+	}
 }

@@ -1,6 +1,9 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "materials/dark_oak_logs"
-    }
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"oak": "materials/dark_oak_logs"
+	},
+	"parent": {
+		"acacia": "materials/oak_logs"
+	}
 }

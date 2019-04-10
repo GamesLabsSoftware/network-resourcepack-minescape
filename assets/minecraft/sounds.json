@@ -1,23 +1,34 @@
 {
+	"all.sounds.nice-one-joey": {
+		"sounds": [
+			"all/sounds/nice-one-joey"
+		]
+	},
+	"all.sounds.laugh": {
+		"sounds": [
+			"all/sounds/laugh"
+		]
+	},
+
   "music.game": {
     "replace": true,
     "sounds": [
-      
+
     ]
   },
   "music.creative": {
     "replace": true,
     "sounds": [
-      
+
     ]
   },
-  
+
   "legacy.ambient.fire": {
     "sounds": [
       "legacy/ambient/fire"
     ]
   },
-  
+
   "legacy.action.cooking": {
     "sounds": [
       "legacy/action/cooking"
@@ -27,5 +38,163 @@
     "sounds": [
       "legacy/action/magic_teleport"
     ]
-  }
+  },
+  "legacy.action.combat": {
+    "sounds": [
+      "legacy/action/combat_0",
+      "legacy/action/combat_1",
+      "legacy/action/combat_2",
+      "legacy/action/combat_3",
+      "legacy/action/combat_4",
+      "legacy/action/combat_5",
+      "legacy/action/combat_6",
+      "legacy/action/combat_7",
+      "legacy/action/combat_8",
+      "legacy/action/combat_9",
+      "legacy/action/combat_10",
+      "legacy/action/combat_11"
+    ]
+  },
+  "legacy.action.hurt": {
+    "sounds": [
+      "legacy/action/hurt_0"
+    ]
+  },
+	"legacy.action.fishing-spot": {
+		"sounds": [
+			"legacy/action/fishing-spot"
+		]
+	},
+	"legacy.action.magic_attack": {
+		"sounds": [
+			"legacy/action/magic_attack"
+		]
+	},
+	"legacy.action.pray": {
+		"sounds": [
+			"legacy/action/pray"
+		]
+	},
+	"legacy.action.shoot_arrow": {
+		"sounds": [
+			"legacy/action/shoot_arrow"
+		]
+	},
+	"legacy.action.smelt": {
+		"sounds": [
+			"legacy/action/smelt"
+		]
+	},
+	"legacy.action.smith": {
+		"sounds": [
+			"legacy/action/smith"
+		]
+	},
+	"legacy.action.breaking-mining": {
+		"sounds": [
+			"legacy/action/breaking-mining"
+		]
+	},
+	"legacy.action.breaking-mining-broke": {
+		"sounds": [
+			"legacy/action/breaking-mining-broke"
+		]
+	},
+	"legacy.action.breaking-woodcutting": {
+		"sounds": [
+			"legacy/action/breaking-woodcutting"
+		]
+	},
+	"legacy.action.breaking-woodcutting-broke": {
+		"sounds": [
+			"legacy/action/breaking-woodcutting-broke"
+		]
+	},
+	"legacy.action.breaking-farming": {
+		"sounds": [
+			"legacy/action/breaking-farming"
+		]
+	},
+	"legacy.action.breaking-farming-broke": {
+		"sounds": [
+			"legacy/action/breaking-farming-broke"
+		]
+	},
+	"legacy.action.bury": {
+		"sounds": [
+			"legacy/action/bury"
+		]
+	},
+	"legacy.action.level-up": {
+		"sounds": [
+			"legacy/action/level-up"
+		]
+	},
+	"legacy.action.eating": {
+		"sounds": [
+			"legacy/action/eating"
+		]
+	},
+
+	"legacy.ambient.fishing-spot": {
+		"sounds": [
+			"legacy/ambient/fishing-spot"
+		]
+	},
+	"legacy.action.success": {
+		"sounds": [
+			"legacy/action/success"
+		]
+	},
+	"legacy.action.failure": {
+		"sounds": [
+			"legacy/action/failure"
+		]
+	},
+	"legacy.action.brewing": {
+		"sounds": [
+			"legacy/action/brewing"
+		]
+	},
+	"legacy.action.drinking": {
+		"sounds": [
+			"legacy/action/drinking"
+		]
+	},
+	"legacy.ambient.town": {
+		"sounds": [
+			"legacy/ambient/town"
+		]
+	},
+	"legacy.ambient.ge": {
+		"sounds": [
+			"legacy/ambient/ge"
+		]
+	},
+	"legacy.ambient.bank": {
+		"sounds": [
+			"legacy/ambient/bank"
+		]
+	},
+	"legacy.ambient.market": {
+		"sounds": [
+			"legacy/ambient/market"
+		]
+	},
+	"legacy.action.teleporting": {
+		"sounds": [
+			"legacy/action/teleporting"
+		]
+	},
+	"legacy.action.runecrafting": {
+		"sounds": [
+			"legacy/action/runecrafting"
+		]
+	},
+
+	"legacy.music.combat": {
+		"sounds": [
+			"legacy/music/combat"
+		]
+	}
 }

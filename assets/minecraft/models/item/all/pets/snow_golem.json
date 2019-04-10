@@ -1,0 +1,6 @@
+{
+  "parent": "item/all/menu/icon",
+  "textures": {
+      "layer0": "all/pets/snow_golem"
+  }
+}
