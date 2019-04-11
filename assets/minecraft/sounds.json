@@ -23,178 +23,178 @@
     ]
   },
 
-  "legacy.ambient.fire": {
+  "minescape.ambient.fire": {
     "sounds": [
-      "legacy/ambient/fire"
+      "minescape/ambient/fire"
     ]
   },
 
-  "legacy.action.cooking": {
+  "minescape.action.cooking": {
     "sounds": [
-      "legacy/action/cooking"
+      "minescape/action/cooking"
     ]
   },
-  "legacy.action.magic_teleport": {
+  "minescape.action.magic_teleport": {
     "sounds": [
-      "legacy/action/magic_teleport"
+      "minescape/action/magic_teleport"
     ]
   },
-  "legacy.action.combat": {
+  "minescape.action.combat": {
     "sounds": [
-      "legacy/action/combat_0",
-      "legacy/action/combat_1",
-      "legacy/action/combat_2",
-      "legacy/action/combat_3",
-      "legacy/action/combat_4",
-      "legacy/action/combat_5",
-      "legacy/action/combat_6",
-      "legacy/action/combat_7",
-      "legacy/action/combat_8",
-      "legacy/action/combat_9",
-      "legacy/action/combat_10",
-      "legacy/action/combat_11"
+      "minescape/action/combat_0",
+      "minescape/action/combat_1",
+      "minescape/action/combat_2",
+      "minescape/action/combat_3",
+      "minescape/action/combat_4",
+      "minescape/action/combat_5",
+      "minescape/action/combat_6",
+      "minescape/action/combat_7",
+      "minescape/action/combat_8",
+      "minescape/action/combat_9",
+      "minescape/action/combat_10",
+      "minescape/action/combat_11"
     ]
   },
-  "legacy.action.hurt": {
+  "minescape.action.hurt": {
     "sounds": [
-      "legacy/action/hurt_0"
+      "minescape/action/hurt_0"
     ]
   },
-	"legacy.action.fishing-spot": {
+	"minescape.action.fishing-spot": {
 		"sounds": [
-			"legacy/action/fishing-spot"
+			"minescape/action/fishing-spot"
 		]
 	},
-	"legacy.action.magic_attack": {
+	"minescape.action.magic_attack": {
 		"sounds": [
-			"legacy/action/magic_attack"
+			"minescape/action/magic_attack"
 		]
 	},
-	"legacy.action.pray": {
+	"minescape.action.pray": {
 		"sounds": [
-			"legacy/action/pray"
+			"minescape/action/pray"
 		]
 	},
-	"legacy.action.shoot_arrow": {
+	"minescape.action.shoot_arrow": {
 		"sounds": [
-			"legacy/action/shoot_arrow"
+			"minescape/action/shoot_arrow"
 		]
 	},
-	"legacy.action.smelt": {
+	"minescape.action.smelt": {
 		"sounds": [
-			"legacy/action/smelt"
+			"minescape/action/smelt"
 		]
 	},
-	"legacy.action.smith": {
+	"minescape.action.smith": {
 		"sounds": [
-			"legacy/action/smith"
+			"minescape/action/smith"
 		]
 	},
-	"legacy.action.breaking-mining": {
+	"minescape.action.breaking-mining": {
 		"sounds": [
-			"legacy/action/breaking-mining"
+			"minescape/action/breaking-mining"
 		]
 	},
-	"legacy.action.breaking-mining-broke": {
+	"minescape.action.breaking-mining-broke": {
 		"sounds": [
-			"legacy/action/breaking-mining-broke"
+			"minescape/action/breaking-mining-broke"
 		]
 	},
-	"legacy.action.breaking-woodcutting": {
+	"minescape.action.breaking-woodcutting": {
 		"sounds": [
-			"legacy/action/breaking-woodcutting"
+			"minescape/action/breaking-woodcutting"
 		]
 	},
-	"legacy.action.breaking-woodcutting-broke": {
+	"minescape.action.breaking-woodcutting-broke": {
 		"sounds": [
-			"legacy/action/breaking-woodcutting-broke"
+			"minescape/action/breaking-woodcutting-broke"
 		]
 	},
-	"legacy.action.breaking-farming": {
+	"minescape.action.breaking-farming": {
 		"sounds": [
-			"legacy/action/breaking-farming"
+			"minescape/action/breaking-farming"
 		]
 	},
-	"legacy.action.breaking-farming-broke": {
+	"minescape.action.breaking-farming-broke": {
 		"sounds": [
-			"legacy/action/breaking-farming-broke"
+			"minescape/action/breaking-farming-broke"
 		]
 	},
-	"legacy.action.bury": {
+	"minescape.action.bury": {
 		"sounds": [
-			"legacy/action/bury"
+			"minescape/action/bury"
 		]
 	},
-	"legacy.action.level-up": {
+	"minescape.action.level-up": {
 		"sounds": [
-			"legacy/action/level-up"
+			"minescape/action/level-up"
 		]
 	},
-	"legacy.action.eating": {
+	"minescape.action.eating": {
 		"sounds": [
-			"legacy/action/eating"
+			"minescape/action/eating"
 		]
 	},
 
-	"legacy.ambient.fishing-spot": {
+	"minescape.ambient.fishing-spot": {
 		"sounds": [
-			"legacy/ambient/fishing-spot"
+			"minescape/ambient/fishing-spot"
 		]
 	},
-	"legacy.action.success": {
+	"minescape.action.success": {
 		"sounds": [
-			"legacy/action/success"
+			"minescape/action/success"
 		]
 	},
-	"legacy.action.failure": {
+	"minescape.action.failure": {
 		"sounds": [
-			"legacy/action/failure"
+			"minescape/action/failure"
 		]
 	},
-	"legacy.action.brewing": {
+	"minescape.action.brewing": {
 		"sounds": [
-			"legacy/action/brewing"
+			"minescape/action/brewing"
 		]
 	},
-	"legacy.action.drinking": {
+	"minescape.action.drinking": {
 		"sounds": [
-			"legacy/action/drinking"
+			"minescape/action/drinking"
 		]
 	},
-	"legacy.ambient.town": {
+	"minescape.ambient.town": {
 		"sounds": [
-			"legacy/ambient/town"
+			"minescape/ambient/town"
 		]
 	},
-	"legacy.ambient.ge": {
+	"minescape.ambient.ge": {
 		"sounds": [
-			"legacy/ambient/ge"
+			"minescape/ambient/ge"
 		]
 	},
-	"legacy.ambient.bank": {
+	"minescape.ambient.bank": {
 		"sounds": [
-			"legacy/ambient/bank"
+			"minescape/ambient/bank"
 		]
 	},
-	"legacy.ambient.market": {
+	"minescape.ambient.market": {
 		"sounds": [
-			"legacy/ambient/market"
+			"minescape/ambient/market"
 		]
 	},
-	"legacy.action.teleporting": {
+	"minescape.action.teleporting": {
 		"sounds": [
-			"legacy/action/teleporting"
+			"minescape/action/teleporting"
 		]
 	},
-	"legacy.action.runecrafting": {
+	"minescape.action.runecrafting": {
 		"sounds": [
-			"legacy/action/runecrafting"
+			"minescape/action/runecrafting"
 		]
 	},
 
-	"legacy.music.combat": {
+	"minescape.music.combat": {
 		"sounds": [
-			"legacy/music/combat"
+			"minescape/music/combat"
 		]
 	}
 }
