@@ -5,7 +5,7 @@
 		"layer0": "all/menu/layer0",
 		"layer1": "all/menu/layer0"
 	},
-	"elements": [
+	"elements": [ 	 
 		{
 			"__comment": "background",
 			"from": [ 0, 0, 0 ],
@@ -17,7 +17,7 @@
 		},
 		{
 			"__comment": "layer0",
-			"from": [ 0, 0.1, 0 ],
+			"from": [ 0, 0.09999999, 0 ],
 			"to": [ 16, 0.101, 16 ],
 			"faces": {
 				"down": { "uv": [ 0, 0, 16, 16 ], "texture": "#layer0" },
@@ -35,6 +35,20 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ 0, 6.644, -2.608 ]
+		},
+		"thirdperson_lefthand": {
+			"translation":  [ 0, 6.644, -2.608 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 42, 3, 0 ],
+			"translation":  [ 2.4646, 8.5209, 2.5896 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 42, 3, 0 ],
+			"translation":  [ 2.4646, 8.5209, 2.5896 ]
+		},
 		"gui": {
 			"rotation":  [ 90, 0, 0 ],
 			"translation":  [ 0, 0, 16 ],
@@ -43,6 +57,9 @@
 		"head": {
 			"rotation":  [ 90, 0, 180 ],
 			"translation":  [ 0, 15, -8 ]
+		},
+		"ground": {
+			"translation":  [ 0, 4.3423, 0 ]
 		},
 		"fixed": {
 			"rotation":  [ 90, 180, 0 ],

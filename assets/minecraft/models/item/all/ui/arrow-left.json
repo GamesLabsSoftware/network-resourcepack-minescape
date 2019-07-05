@@ -1,0 +1,6 @@
+{
+  "parent": "item/all/ui/icon",
+  "textures": {
+      "layer0": "all/ui/arrow-left"
+  }
+}

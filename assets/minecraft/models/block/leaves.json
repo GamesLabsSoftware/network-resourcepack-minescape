@@ -3,7 +3,7 @@
 	"ambientocclusion": true,
 	"parent": "block/block", 
 "textures": {
-    "particle": "blocks/leaves_oak",
+    "particle": "blocks/particles_oak",
     "middle": "blocks/leaves_oak",
     "tips": "blocks/better_leaves_oak"
 	},

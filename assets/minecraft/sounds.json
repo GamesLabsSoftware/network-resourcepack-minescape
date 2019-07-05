@@ -1,34 +1,27 @@
 {
-	"all.sounds.nice-one-joey": {
-		"sounds": [
-			"all/sounds/nice-one-joey"
-		]
-	},
-	"all.sounds.laugh": {
-		"sounds": [
-			"all/sounds/laugh"
-		]
-	},
-
+  "all.sounds.nice-one-joey": {
+    "sounds": [
+      "all/sounds/nice-one-joey"
+    ]
+  },
+  "all.sounds.laugh": {
+    "sounds": [
+      "all/sounds/laugh"
+    ]
+  },
   "music.game": {
     "replace": true,
-    "sounds": [
-
-    ]
+    "sounds": []
   },
   "music.creative": {
     "replace": true,
-    "sounds": [
-
-    ]
+    "sounds": []
   },
-
   "minescape.ambient.fire": {
     "sounds": [
       "minescape/ambient/fire"
     ]
   },
-
   "minescape.action.cooking": {
     "sounds": [
       "minescape/action/cooking"
@@ -60,141 +53,144 @@
       "minescape/action/hurt_0"
     ]
   },
-	"minescape.action.fishing-spot": {
-		"sounds": [
-			"minescape/action/fishing-spot"
-		]
-	},
-	"minescape.action.magic_attack": {
-		"sounds": [
-			"minescape/action/magic_attack"
-		]
-	},
-	"minescape.action.pray": {
-		"sounds": [
-			"minescape/action/pray"
-		]
-	},
-	"minescape.action.shoot_arrow": {
-		"sounds": [
-			"minescape/action/shoot_arrow"
-		]
-	},
-	"minescape.action.smelt": {
-		"sounds": [
-			"minescape/action/smelt"
-		]
-	},
-	"minescape.action.smith": {
-		"sounds": [
-			"minescape/action/smith"
-		]
-	},
-	"minescape.action.breaking-mining": {
-		"sounds": [
-			"minescape/action/breaking-mining"
-		]
-	},
-	"minescape.action.breaking-mining-broke": {
-		"sounds": [
-			"minescape/action/breaking-mining-broke"
-		]
-	},
-	"minescape.action.breaking-woodcutting": {
-		"sounds": [
-			"minescape/action/breaking-woodcutting"
-		]
-	},
-	"minescape.action.breaking-woodcutting-broke": {
-		"sounds": [
-			"minescape/action/breaking-woodcutting-broke"
-		]
-	},
-	"minescape.action.breaking-farming": {
-		"sounds": [
-			"minescape/action/breaking-farming"
-		]
-	},
-	"minescape.action.breaking-farming-broke": {
-		"sounds": [
-			"minescape/action/breaking-farming-broke"
-		]
-	},
-	"minescape.action.bury": {
-		"sounds": [
-			"minescape/action/bury"
-		]
-	},
-	"minescape.action.level-up": {
-		"sounds": [
-			"minescape/action/level-up"
-		]
-	},
-	"minescape.action.eating": {
-		"sounds": [
-			"minescape/action/eating"
-		]
-	},
-
-	"minescape.ambient.fishing-spot": {
-		"sounds": [
-			"minescape/ambient/fishing-spot"
-		]
-	},
-	"minescape.action.success": {
-		"sounds": [
-			"minescape/action/success"
-		]
-	},
-	"minescape.action.failure": {
-		"sounds": [
-			"minescape/action/failure"
-		]
-	},
-	"minescape.action.brewing": {
-		"sounds": [
-			"minescape/action/brewing"
-		]
-	},
-	"minescape.action.drinking": {
-		"sounds": [
-			"minescape/action/drinking"
-		]
-	},
-	"minescape.ambient.town": {
-		"sounds": [
-			"minescape/ambient/town"
-		]
-	},
-	"minescape.ambient.ge": {
-		"sounds": [
-			"minescape/ambient/ge"
-		]
-	},
-	"minescape.ambient.bank": {
-		"sounds": [
-			"minescape/ambient/bank"
-		]
-	},
-	"minescape.ambient.market": {
-		"sounds": [
-			"minescape/ambient/market"
-		]
-	},
-	"minescape.action.teleporting": {
-		"sounds": [
-			"minescape/action/teleporting"
-		]
-	},
-	"minescape.action.runecrafting": {
-		"sounds": [
-			"minescape/action/runecrafting"
-		]
-	},
-
-	"minescape.music.combat": {
-		"sounds": [
-			"minescape/music/combat"
-		]
-	}
+  "minescape.action.fishing-spot": {
+    "sounds": [
+      "minescape/action/fishing-spot"
+    ]
+  },
+  "minescape.action.magic_attack": {
+    "sounds": [
+      "minescape/action/magic_attack"
+    ]
+  },
+  "minescape.action.pray": {
+    "sounds": [
+      "minescape/action/pray"
+    ]
+  },
+  "minescape.action.shoot_arrow": {
+    "sounds": [
+      "minescape/action/shoot_arrow"
+    ]
+  },
+  "minescape.action.smelt": {
+    "sounds": [
+      "minescape/action/smelt"
+    ]
+  },
+  "minescape.action.smith": {
+    "sounds": [
+      "minescape/action/smith"
+    ]
+  },
+  "minescape.action.breaking-mining": {
+    "sounds": [
+      "minescape/action/breaking-mining"
+    ]
+  },
+  "minescape.action.breaking-mining-broke": {
+    "sounds": [
+      "minescape/action/breaking-mining-broke"
+    ]
+  },
+  "minescape.action.breaking-woodcutting": {
+    "sounds": [
+      "minescape/action/breaking-woodcutting"
+    ]
+  },
+  "minescape.action.breaking-woodcutting-broke": {
+    "sounds": [
+      "minescape/action/breaking-woodcutting-broke"
+    ]
+  },
+  "minescape.action.breaking-farming": {
+    "sounds": [
+      "minescape/action/breaking-farming"
+    ]
+  },
+  "minescape.action.breaking-farming-broke": {
+    "sounds": [
+      "minescape/action/breaking-farming-broke"
+    ]
+  },
+  "minescape.action.bury": {
+    "sounds": [
+      "minescape/action/bury"
+    ]
+  },
+  "minescape.action.level-up": {
+    "sounds": [
+      "minescape/action/level-up"
+    ]
+  },
+  "minescape.action.eating": {
+    "sounds": [
+      "minescape/action/eating"
+    ]
+  },
+  "minescape.ambient.fishing-spot": {
+    "sounds": [
+      "minescape/ambient/fishing-spot"
+    ]
+  },
+  "minescape.action.success": {
+    "sounds": [
+      "minescape/action/success"
+    ]
+  },
+  "minescape.action.failure": {
+    "sounds": [
+      "minescape/action/failure"
+    ]
+  },
+  "minescape.action.brewing": {
+    "sounds": [
+      "minescape/action/brewing"
+    ]
+  },
+  "minescape.action.drinking": {
+    "sounds": [
+      "minescape/action/drinking"
+    ]
+  },
+  "minescape.ambient.town": {
+    "sounds": [
+      "minescape/ambient/town"
+    ]
+  },
+  "minescape.ambient.ge": {
+    "sounds": [
+      "minescape/ambient/ge"
+    ]
+  },
+  "minescape.ambient.bank": {
+    "sounds": [
+      "minescape/ambient/bank"
+    ]
+  },
+  "minescape.ambient.cave": {
+    "sounds": [
+      "minescape/ambient/cave"
+    ]
+  },
+  "minescape.ambient.market": {
+    "sounds": [
+      "minescape/ambient/market"
+    ]
+  },
+  "minescape.action.teleporting": {
+    "sounds": [
+      "minescape/action/teleporting"
+    ]
+  },
+  "minescape.action.runecrafting": {
+    "sounds": [
+      "minescape/action/runecrafting"
+    ]
+  },
+  "minescape.music.combat": {
+    "sounds": [
+      "minescape/music/combat"
+    ]
+  }
 }

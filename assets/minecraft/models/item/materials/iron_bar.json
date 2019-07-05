@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/all/menu/icon_normal",
     "textures": {
         "layer0": "materials/iron_bar"
     }

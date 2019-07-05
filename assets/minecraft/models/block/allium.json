@@ -2,7 +2,7 @@
 	"__comment": "Designed by Monsterfish_ with Cubik Studio - https://cubik.studio",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "#cross",
+		"particle": "blocks/flower_allium",
 		"cross": "blocks/flower_allium"
 	},
 	"elements": [ 	 

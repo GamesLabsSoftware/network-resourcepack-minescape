@@ -3,7 +3,5 @@
 	"textures": {
 		"bronze_axe": "swords/mithril_hatchet"
 	},
-	"parent": {
-		"bronze": "item/swords/bronze_axe"
-	}
+	"parent": "item/swords/bronze_hatchet"
 }

@@ -1107,7 +1107,7 @@ item.elytra.name=Elytra
 
 container.inventory=Inventory
 container.hopper=Item Hopper
-container.crafting=Crafting
+container.crafting=
 container.dispenser=Dispenser
 container.dropper=Dropper
 container.furnace=Furnace

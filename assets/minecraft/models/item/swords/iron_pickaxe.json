@@ -3,7 +3,5 @@
 	"textures": {
 		"bronze_pickaxe": "swords/iron_pickaxe"
 	},
-	"parent": {
-		"bronze": "item/swords/bronze_pickaxe"
-	}
+	"parent": "item/swords/bronze_pickaxe"
 }

@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"oak": "logs/yew"
+	},
+	"parent": "item/logs/oak"
+}

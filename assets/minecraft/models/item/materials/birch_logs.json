@@ -1,9 +1,0 @@
-{
-	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
-	"textures": {
-		"oak": "materials/birch_logs"
-	},
-	"parent": {
-		"acacia": "materials/oak_logs"
-	}
-}

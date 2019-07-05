@@ -3,7 +3,7 @@
 	"textures": {
 		"mesh_palette": "shields/bronze_shield"
 	},
-	"elements": [
+	"elements": [ 	 
 		{
 			"__comment": "Voxels-301900",
 			"from": [ -2, 8, 8 ],
@@ -1577,8 +1577,8 @@
 			"scale":  [ 0.8, 0.8, 0.8 ]
 		},
 		"gui": {
-			"rotation":  [ 16, 0, 0 ],
-			"translation":  [ 0, 9.7391, 9.7391 ]
+			"translation":  [ 0, 5.2336, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
 		},
 		"ground": {
 			"rotation":  [ -75, -17, 0 ]

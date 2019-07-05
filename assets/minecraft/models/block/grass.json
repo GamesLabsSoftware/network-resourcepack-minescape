@@ -8,7 +8,7 @@
 		"top": "blocks/grass_top",
 		"side": "blocks/grass_side",
 		"overlay": "blocks/grass_side_overlay",
-		"texture": "blocks/best_grass_extra"
+		"center": "blocks/best_grass_extra"
 	},
 	"elements": [ 	 
 		{
@@ -39,7 +39,7 @@
 			"to": [ 13.5, 16.751, 12.5 ],
 			"shade": false,
 			"faces": {
-				"up": { "uv": [ 3.5, 3, 13.5, 12.5 ], "texture": "#texture", "cullface": "up", "tintindex": 0 }
+				"up": { "uv": [ 3.5, 3, 13.5, 12.5 ], "texture": "#center", "cullface": "up", "tintindex": 0 }
 			}
 		},
 		{
