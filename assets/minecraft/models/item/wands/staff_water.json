@@ -1,0 +1,6 @@
+{
+	"parent": "item/wands/staff",
+	"textures": {
+		"staff": "wands/water"
+	}
+}

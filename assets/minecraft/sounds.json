@@ -113,6 +113,16 @@
       "minescape/action/breaking-farming-broke"
     ]
   },
+  "minescape.action.breaking-herblore": {
+    "sounds": [
+      "minescape/action/breaking-herblore"
+    ]
+  },
+  "minescape.action.breaking-herblore-broke": {
+    "sounds": [
+      "minescape/action/breaking-farming-broke"
+    ]
+  },
   "minescape.action.bury": {
     "sounds": [
       "minescape/action/bury"
@@ -186,6 +196,11 @@
   "minescape.action.runecrafting": {
     "sounds": [
       "minescape/action/runecrafting"
+    ]
+  },
+  "minescape.action.crafting": {
+    "sounds": [
+      "minescape/action/crafting"
     ]
   },
   "minescape.music.combat": {

@@ -1,0 +1,6 @@
+{
+    "parent": "item/icons/prayer_icon",
+    "textures": {
+        "layer0": "icons/magic/enfeeble"
+    }
+}

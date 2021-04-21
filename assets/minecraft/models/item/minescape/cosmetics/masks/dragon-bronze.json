@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/cosmetics/masks/dragon",
+	"textures": {
+		"5": "minescape/cosmetics/masks/dragon-mask-bronze"
+	}
+}

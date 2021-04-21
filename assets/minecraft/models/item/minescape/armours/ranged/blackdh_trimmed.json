@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/armours/ranged/coif",
+	"textures": {
+		"0": "minescape/armours/ranged/blackdh"
+	}
+}

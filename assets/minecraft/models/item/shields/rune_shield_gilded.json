@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"0": "shields/rune_gilded"
+	},
+	"parent": "item/shields/kiteshield"
+}

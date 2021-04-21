@@ -1,0 +1,117 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"aybsall_demon": "minescape/entities/aybssal-demon"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ -0.625, 13, 0.75 ],
+			"to": [ -0.375, 13.25, 1.5 ],
+			"faces": {
+				"up": { "uv": [ 0.90625, 7.1875, 0.9375, 7.28125 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 0.875, 6.5, 0.90625, 6.53125 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 9.96875, 13.5625, 10.0625, 13.59375 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 9.96875, 13.53125, 10.0625, 13.5625 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 1.3839, 12.25, 1.2197 ],
+			"to": [ 2.6339, 13.5, 8.2197 ],
+			"rotation": { "origin": [ 2, 13.5, 7.75 ], "axis": "y", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 4, 10.125, 4.3125, 11.875 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 3.5625, 0.125, 3.875, 1.875 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 8.125, 6.5625, 8.4375, 6.875 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 7.8125, 11.9375, 9.5625, 12.25 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 7.8125, 12.25, 9.5625, 12.5625 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 1.5, 12, 6.75 ],
+			"to": [ 5.5, 13.75, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8.8125, 10.75, 9.8125, 11.1875 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 13.8125, 10.75, 14.8125, 11.1875 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 9.8125, 10.75, 10.8125, 11.1875 ], "texture": "#aybsall_demon" },
+				"south": { "uv": [ 10.8125, 10.75, 11.8125, 11.1875 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 7.6875, 7.375, 8.125, 7.8125 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 7.6875, 6.9375, 8.125, 7.375 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ -0.625, 12.5, 0.75 ],
+			"to": [ -0.375, 12.75, 1.5 ],
+			"faces": {
+				"down": { "uv": [ 0.875, 7, 0.90625, 7.09375 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 0.90625, 6.59375, 0.9375, 6.625 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 10.4375, 13.625, 10.53125, 13.65625 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 10.4375, 13.59375, 10.53125, 13.625 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ -0.875, 12.5, 1.5 ],
+			"to": [ -0.125, 13.25, 2 ],
+			"faces": {
+				"down": { "uv": [ 9.6875, 13.5, 9.78125, 13.5625 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 9.78125, 13.5, 9.875, 13.5625 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 9, 13.53125, 9.09375, 13.625 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 10.25, 15.03125, 10.3125, 15.125 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 11.3125, 15.03125, 11.375, 15.125 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ -0.625, 12.75, 0 ],
+			"to": [ -0.375, 13, 1.5 ],
+			"faces": {
+				"down": { "uv": [ 0.875, 7.5625, 0.90625, 7.75 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 0.90625, 7.5625, 0.9375, 7.75 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 13.46875, 15, 13.5, 15.03125 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 9.6875, 13.59375, 9.875, 13.625 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 9.6875, 13.5625, 9.875, 13.59375 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ -0.375, 12.75, 0.75 ],
+			"to": [ -0.125, 13, 1.5 ],
+			"faces": {
+				"down": { "uv": [ 0.875, 6.90625, 0.90625, 7 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 0.90625, 6.90625, 0.9375, 7 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 13.4375, 15, 13.46875, 15.03125 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 9, 13.5, 9.09375, 13.53125 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ -0.875, 12.75, 0.75 ],
+			"to": [ -0.625, 13, 1.5 ],
+			"faces": {
+				"down": { "uv": [ 0.875, 7.28125, 0.90625, 7.375 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 0.90625, 7.28125, 0.9375, 7.375 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 11.3125, 15, 11.34375, 15.03125 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 9.09375, 13.5, 9.1875, 13.53125 ], "texture": "#aybsall_demon" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ -5, -2, 4 ],
+			"scale":  [ 1.375, 1.375, 1.375 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"translation":  [ 0, -26.41, 0 ],
+			"scale":  [ 2.2, 2.2, 2.2 ]
+		}
+	}
+}

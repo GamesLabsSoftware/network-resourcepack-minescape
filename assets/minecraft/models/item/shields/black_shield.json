@@ -1,7 +1,6 @@
 {
-	"__comment": "Designed by Jey224 with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"mesh_palette": "shields/black_shield"
+		"0": "shields/black"
 	},
-	"parent": "item/shields/bronze_shield"
+	"parent": "item/shields/kiteshield"
 }

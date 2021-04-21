@@ -1,0 +1,6 @@
+{
+	"parent":"item/minescape/entities/scorpion/static",
+	"textures": {
+		"texture": "minescape/entities/scorpion-hurt"
+	}
+}

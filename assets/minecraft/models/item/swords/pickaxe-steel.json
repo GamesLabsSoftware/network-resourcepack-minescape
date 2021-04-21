@@ -1,0 +1,6 @@
+{
+	"parent": "item/swords/pickaxe-adamant",
+	"textures": {
+		"0": "swords/pickaxe-steel"
+	}
+}

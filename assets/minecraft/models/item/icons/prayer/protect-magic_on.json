@@ -1,0 +1,6 @@
+{
+    "parent": "item/icons/prayer_icon_overhead",
+    "textures": {
+        "background": "icons/prayer/protect-magic_on"
+    }
+}

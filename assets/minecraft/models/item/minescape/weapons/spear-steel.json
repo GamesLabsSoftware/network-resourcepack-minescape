@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/weapons/spear",
+	"textures": {
+		"0": "minescape/weapons/spear-steel"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/cosmetics/mitres/mitre",
+	"textures": {
+		"0": "minescape/cosmetics/mitres/vestment-mitre-armadyl"
+	}
+}

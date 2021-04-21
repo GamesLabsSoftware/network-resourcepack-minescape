@@ -1,0 +1,6 @@
+{
+	"parent": "item/swords/twohand-adamant",
+	"textures": {
+		"0": "swords/twohand-steel"
+	}
+}

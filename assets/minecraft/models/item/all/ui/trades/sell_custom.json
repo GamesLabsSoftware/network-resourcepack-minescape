@@ -1,6 +1,0 @@
-{
-  "parent": "item/all/ui/icon",
-  "textures": {
-      "layer0": "all/ui/trades/sell_custom"
-  }
-}

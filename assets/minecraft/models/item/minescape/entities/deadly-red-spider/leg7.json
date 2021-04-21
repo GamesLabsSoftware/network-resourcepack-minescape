@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/entities/red-spider/leg7",
+	"textures": {
+		"spider": "minescape/entities/deadly-red-spider"
+	}
+}

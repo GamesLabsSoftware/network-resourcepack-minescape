@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "armours/samurai_chestplate",
+    "layer1": "armours/samurai_chestplate"
+  }
+}

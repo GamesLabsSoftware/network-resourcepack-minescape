@@ -1,0 +1,33 @@
+{
+	"__comment": "This model was created in blender using GamesLabs' converter script",
+	"parent": "item/minescape/entities/giant-mole/body",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 7, 2 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 7, 2 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 8, -2 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 8, -2 ]
+		},
+		"gui": {
+			"translation":  [ 0, 1, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"head": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, -7.39, -1 ]
+		},
+		"ground": {
+			"translation":  [ 0, 8, 0 ]
+		}
+	}
+}

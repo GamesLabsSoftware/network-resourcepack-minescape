@@ -1,0 +1,6 @@
+{
+	"parent": "item/swords/abyssal_whip",
+	"textures": {
+		"0": "weapons/abyssal_whip_kalphite"
+	}
+}

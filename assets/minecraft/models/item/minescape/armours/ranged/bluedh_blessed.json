@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/armours/ranged/greendh_blessed",
+	"textures": {
+		"0": "minescape/armours/ranged/bluedh_blessed"
+	}
+}

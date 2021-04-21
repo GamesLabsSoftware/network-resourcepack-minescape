@@ -1,0 +1,65 @@
+{
+	"__comment": "This model was created in blender using GamesLabs' converter script",
+	"textures": {
+		"finger": "minescape/entities/crawling-hand/finger"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Cube",
+			"from": [ 5.55, -8.05, 5.58 ],
+			"to": [ 10.55, 8.05, 10.58 ],
+			"faces": {
+				"down": { "uv": [ 0, 2.5, 3, 4.5 ], "texture": "#finger", "rotation": 270 },
+				"up": { "uv": [ 3, 2.5, 5.5, 4.5 ], "texture": "#finger", "rotation": 90 },
+				"north": { "uv": [ 6.5, 0, 9.5, 8 ], "texture": "#finger" },
+				"south": { "uv": [ 9.5, 0, 12, 8 ], "texture": "#finger", "rotation": 180 },
+				"west": { "uv": [ 13, 8, 16, 16 ], "texture": "#finger", "rotation": 180 },
+				"east": { "uv": [ 13, 0, 16, 8 ], "texture": "#finger", "rotation": 180 }
+			}
+		},
+		{
+			"__comment": "Cube",
+			"from": [ 5.13, 6.24, 1.91 ],
+			"to": [ 10.98, 23.19, 7.76 ],
+			"rotation": { "origin": [ 8.05, 14.71, 4.83 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 0, 4.5, 3, 7.5 ], "texture": "#finger", "rotation": 270 },
+				"up": { "uv": [ 3, 4.5, 6.5, 7.5 ], "texture": "#finger", "rotation": 90 },
+				"north": { "uv": [ 6.5, 8, 10, 16 ], "texture": "#finger", "rotation": 180 },
+				"south": { "uv": [ 10, 8, 13, 16 ], "texture": "#finger", "rotation": 180 },
+				"west": { "uv": [ 0, 7.5, 3.5, 16 ], "texture": "#finger" },
+				"east": { "uv": [ 3.5, 7.5, 6.5, 16 ], "texture": "#finger" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ -90, 0, 180 ],
+			"translation":  [ -1, 1, 5 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ -90, 0, 180 ],
+			"translation":  [ -1, 1, 5 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 8, -2 ]
+		},
+		"firstperson_lefthand": {
+			"rotation":  [ 0, 90, 0 ],
+			"translation":  [ 0, 8, -2 ]
+		},
+		"gui": {
+			"translation":  [ 0, 1, 0 ],
+			"scale":  [ 0.8, 0.8, 0.8 ]
+		},
+		"head": {
+			"translation":  [ 0, -39, 0 ]
+		},
+		"ground": {
+			"translation":  [ 0, 8, 0 ]
+		}
+	}
+}

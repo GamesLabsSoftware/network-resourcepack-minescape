@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "icons/skill_constitution"
+        "layer0": "minescape/ui/skill_constitution"
     }
 }

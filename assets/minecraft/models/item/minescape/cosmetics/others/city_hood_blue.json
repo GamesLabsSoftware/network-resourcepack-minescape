@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"5": "minescape/cosmetics/others/city-hood-blue"
+	},
+	"parent": "item/minescape/cosmetics/others/city_hood"
+}

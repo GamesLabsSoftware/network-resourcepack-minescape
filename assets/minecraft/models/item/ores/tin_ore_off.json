@@ -1,5 +1,5 @@
 {
-    "parent": "item/all/menu/icon_normal",
+    "parent": "item/generated",
     "textures": {
         "layer0": "materials/tin_ore",
 				"layer1": "minescape/ui/ore"

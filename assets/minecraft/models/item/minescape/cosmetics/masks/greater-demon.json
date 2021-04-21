@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/cosmetics/masks/black-demon",
+	"textures": {
+		"0": "minescape/entities/greater-demon"
+	}
+}

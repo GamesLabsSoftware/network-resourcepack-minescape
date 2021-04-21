@@ -1,0 +1,80 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"rockcrab": "minescape/entities/rockcrab"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 5.5597, 1.2661, 3.1804 ],
+			"to": [ 5.11235, 1.71345, 4.522449 ],
+			"rotation": { "origin": [ 7.58663, 1.49309, 3.84866 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 0.75, 12.75, 1, 13.5 ], "texture": "#rockcrab" },
+				"up": { "uv": [ 0.75, 13.5, 0.5, 12.75 ], "texture": "#rockcrab" },
+				"north": { "uv": [ 6.5, 6.25, 6.75, 6.5 ], "texture": "#rockcrab" },
+				"south": { "uv": [ 6.75, 6.25, 7, 6.5 ], "texture": "#rockcrab" },
+				"west": { "uv": [ 7.75, 11.5, 8.5, 11.75 ], "texture": "#rockcrab" },
+				"east": { "uv": [ 5.25, 11.25, 6, 11.5 ], "texture": "#rockcrab" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 5.5038, 1.0424, 2.9008 ],
+			"to": [ 5.16829, 2.04894, 3.29223 ],
+			"rotation": { "origin": [ 7.58832, 1.85829, 2.9679 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 6.75, 9, 7, 9.25 ], "texture": "#rockcrab" },
+				"up": { "uv": [ 6.75, 9.25, 6.5, 9 ], "texture": "#rockcrab" },
+				"north": { "uv": [ 13.25, 1.75, 13.5, 2.25 ], "texture": "#rockcrab" },
+				"south": { "uv": [ 13.25, 3, 13.5, 3.5 ], "texture": "#rockcrab" },
+				"west": { "uv": [ 13.25, 3.5, 13.5, 4 ], "texture": "#rockcrab" },
+				"east": { "uv": [ 13.25, 2.5, 13.5, 3 ], "texture": "#rockcrab" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 5.5036, 2.0534, 2.8791 ],
+			"to": [ 5.168089, 2.10932, 2.93502 ],
+			"rotation": { "origin": [ 7.53225, 1.80677, 2.94621 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 13.25, 11.5, 13.5, 11.75 ], "texture": "#rockcrab" },
+				"up": { "uv": [ 13.5, 7.25, 13.25, 7 ], "texture": "#rockcrab" },
+				"north": { "uv": [ 6, 11.25, 6.25, 11.5 ], "texture": "#rockcrab" },
+				"south": { "uv": [ 9.25, 11.5, 9.5, 11.75 ], "texture": "#rockcrab" },
+				"west": { "uv": [ 13.25, 5, 13.5, 5.25 ], "texture": "#rockcrab" },
+				"east": { "uv": [ 6.25, 11.25, 6.5, 11.5 ], "texture": "#rockcrab" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 5.4479, -0.1878, 2.733 ],
+			"to": [ 5.22423, 1.15425, 2.95667 ],
+			"rotation": { "origin": [ 7.58605, 0.81874, 2.6771 ], "axis": "x", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 9.75, 9.25, 10, 9.5 ], "texture": "#rockcrab" },
+				"up": { "uv": [ 9.75, 9.5, 9.5, 9.25 ], "texture": "#rockcrab" },
+				"north": { "uv": [ 1, 12.75, 1.25, 13.5 ], "texture": "#rockcrab" },
+				"south": { "uv": [ 1.5, 12.75, 1.75, 13.5 ], "texture": "#rockcrab" },
+				"west": { "uv": [ 1.75, 12.75, 2, 13.5 ], "texture": "#rockcrab" },
+				"east": { "uv": [ 1.25, 12.75, 1.5, 13.5 ], "texture": "#rockcrab" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ -0.5, -2.5, 24 ],
+			"scale":  [ 2, 2, 2 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 90, 180, 0 ],
+			"translation":  [ -0.5, -2.5, 24 ],
+			"scale":  [ 2, 2, 2 ]
+		},
+		"head": {
+			"translation":  [ 8.8, 22.4, 12 ],
+			"scale":  [ 3.2, 3.2, 3.2 ]
+		}
+	}
+}

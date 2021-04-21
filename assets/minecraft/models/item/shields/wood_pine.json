@@ -1,0 +1,7 @@
+{
+	"textures": {
+		"0": "shields/log_pine",
+		"1": "shields/face_pine"
+	},
+	"parent": "item/shields/wood_oak"
+}

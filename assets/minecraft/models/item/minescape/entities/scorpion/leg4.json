@@ -1,0 +1,371 @@
+{
+  "textures": {
+    "scorpion": "minescape/entities/scorpion"
+  },
+  "elements": [
+    {
+      "from": [
+        1.8125,
+        -2.75625,
+        7.83125
+      ],
+      "to": [
+        3.5,
+        2.86875,
+        9.51875
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "z",
+        "origin": [
+          1.8125,
+          -2.475,
+          7.83125
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2.5,
+            3.75,
+            2.75,
+            5
+          ],
+          "texture": "#scorpion"
+        },
+        "east": {
+          "uv": [
+            4,
+            7.25,
+            4.25,
+            8.5
+          ],
+          "texture": "#scorpion"
+        },
+        "south": {
+          "uv": [
+            4.25,
+            5.75,
+            4.5,
+            7
+          ],
+          "texture": "#scorpion"
+        },
+        "west": {
+          "uv": [
+            4,
+            5.75,
+            4.25,
+            7
+          ],
+          "texture": "#scorpion"
+        },
+        "up": {
+          "uv": [
+            6,
+            5.25,
+            6.25,
+            5.5
+          ],
+          "texture": "#scorpion"
+        },
+        "down": {
+          "uv": [
+            6,
+            5.5,
+            6.25,
+            5.75
+          ],
+          "texture": "#scorpion"
+        }
+      },
+      "name": "Legs"
+    },
+    {
+      "from": [
+        15.171875,
+        -3.6,
+        6.9875
+      ],
+      "to": [
+        16.015625,
+        -2.75625,
+        9.2375
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "y",
+        "origin": [
+          15.171875,
+          -3.6,
+          6.9875
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            15.25,
+            9.75,
+            15.5,
+            10
+          ],
+          "texture": "#scorpion"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            1.5,
+            6,
+            1.75
+          ],
+          "texture": "#scorpion"
+        },
+        "south": {
+          "uv": [
+            15.5,
+            9.75,
+            15.75,
+            10
+          ],
+          "texture": "#scorpion"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            1.75,
+            6,
+            2
+          ],
+          "texture": "#scorpion"
+        },
+        "up": {
+          "uv": [
+            5.25,
+            1.5,
+            5.5,
+            2
+          ],
+          "texture": "#scorpion"
+        },
+        "down": {
+          "uv": [
+            5,
+            1.25,
+            5.25,
+            1.75
+          ],
+          "texture": "#scorpion"
+        }
+      },
+      "name": "Legs"
+    },
+    {
+      "from": [
+        8,
+        2.025,
+        8.1125
+      ],
+      "to": [
+        15.875,
+        3.15,
+        9.2375
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "z",
+        "origin": [
+          8,
+          2.025,
+          8.1125
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            3.5,
+            11.75,
+            5.25,
+            12
+          ],
+          "texture": "#scorpion"
+        },
+        "east": {
+          "uv": [
+            13.25,
+            9.5,
+            13.5,
+            9.75
+          ],
+          "texture": "#scorpion"
+        },
+        "south": {
+          "uv": [
+            13,
+            12,
+            14.75,
+            12.25
+          ],
+          "texture": "#scorpion"
+        },
+        "west": {
+          "uv": [
+            13,
+            9.5,
+            13.25,
+            9.75
+          ],
+          "texture": "#scorpion"
+        },
+        "up": {
+          "uv": [
+            9.5,
+            12,
+            11.25,
+            12.25
+          ],
+          "texture": "#scorpion"
+        },
+        "down": {
+          "uv": [
+            5.25,
+            11.75,
+            7,
+            12
+          ],
+          "texture": "#scorpion"
+        }
+      },
+      "name": "Legs"
+    },
+    {
+      "from": [
+        4.34375,
+        1.884375,
+        8.1125
+      ],
+      "to": [
+        8.84375,
+        3.009375,
+        9.2375
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            3.5,
+            1.75,
+            4.5,
+            2
+          ],
+          "texture": "#scorpion"
+        },
+        "east": {
+          "uv": [
+            15.75,
+            9.5,
+            16,
+            9.75
+          ],
+          "texture": "#scorpion"
+        },
+        "south": {
+          "uv": [
+            5,
+            10.75,
+            6,
+            11
+          ],
+          "texture": "#scorpion"
+        },
+        "west": {
+          "uv": [
+            15.5,
+            9.5,
+            15.75,
+            9.75
+          ],
+          "texture": "#scorpion"
+        },
+        "up": {
+          "uv": [
+            15,
+            11,
+            16,
+            11.25
+          ],
+          "texture": "#scorpion"
+        },
+        "down": {
+          "uv": [
+            14,
+            11,
+            15,
+            11.25
+          ],
+          "texture": "#scorpion"
+        }
+      },
+      "name": "Legs"
+    }
+  ],
+  "name": "leg4",
+  "display": {
+    "head": {
+      "translation": [
+        7.65,
+        15.86,
+        3.4200000000000004
+      ],
+      "scale": [
+        1.6,
+        1.6,
+        1.6
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        4.125,
+        -4.1375,
+        19.9125
+      ],
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        -5.4375,
+        -4.1375,
+        19.9125
+      ],
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "gui": {
+      "rotation": [
+        25,
+        135,
+        0
+      ],
+      "scale": [
+        1.4222222222222223,
+        1.4222222222222223,
+        1.4222222222222223
+      ]
+    }
+  }
+}

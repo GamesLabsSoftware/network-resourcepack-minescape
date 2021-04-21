@@ -1,0 +1,7 @@
+{
+	"parent": "item/minescape/armours/magic/blue_hat",
+	"textures": {
+		"0": "minescape/armours/magic/wizardhatblue_trimmed",
+		"particle": "minescape/armours/magic/wizardhatblue_trimmed"
+	}
+}

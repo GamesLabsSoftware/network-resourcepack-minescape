@@ -1,0 +1,7 @@
+{
+	"parent": "item/minescape/capes/skilling_cape",
+	"textures": {
+		"texture": "capes/strength",
+		"particle": "minescape/ui/skill_strength"
+	}
+}

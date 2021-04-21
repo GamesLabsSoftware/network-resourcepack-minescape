@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/cosmetics/hats/leprechaun",
+	"textures": {
+		"0": "minescape/cosmetics/hats/leprechaun-hat_black"
+	}
+}

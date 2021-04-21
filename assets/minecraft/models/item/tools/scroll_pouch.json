@@ -1,0 +1,6 @@
+{
+  "parent": "item/tools/backpack",
+  "textures": {
+      "texture": "tools/scroll_pouch"
+  }
+}

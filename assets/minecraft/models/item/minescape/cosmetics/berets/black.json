@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/cosmetics/berets/beret",
+	"textures": {
+		"3": "minescape/cosmetics/berets/black-beret"
+	}
+}

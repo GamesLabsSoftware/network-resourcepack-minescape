@@ -1,0 +1,77 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"aybsall_demon": "minescape/entities/aybssal-demon"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 14.1564, 0.061, -1.95 ],
+			"to": [ 15.0564, 2.461, -1.05 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 12.5625, 9.6875, 12.75 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 8.4375, 5.5, 8.625, 6 ], "texture": "#aybsall_demon" },
+				"south": { "uv": [ 8.125, 0.375, 8.3125, 0.875 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 15.8125, 13.5625, 16, 14.0625 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 8.4375, 4, 8.625, 4.5 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 13.8607, 1.6192, 0.9685 ],
+			"to": [ 15.3607, 10.0192, 2.4685 ],
+			"rotation": { "origin": [ 14.6, 9.8, 1.8 ], "axis": "x", "angle": 22.5 },
+			"faces": {
+				"down": { "uv": [ 8.125, 2.5, 8.4375, 2.8125 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 8.125, 2.1875, 8.4375, 2.5 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 3.25, 5.375, 3.5625, 7.125 ], "texture": "#aybsall_demon" },
+				"south": { "uv": [ 3.5625, 7.125, 3.875, 8.875 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 3.25, 7.125, 3.5625, 8.875 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 2.8125, 1.25, 3.125, 3 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 12.616, 9.060599, 1.1864 ],
+			"to": [ 14.116, 10.5606, 5.0864 ],
+			"rotation": { "origin": [ 13.4, 9.8, 4.5 ], "axis": "y", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 6, 6.4375, 6.3125, 7.25 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 6, 4, 6.3125, 4.8125 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 8.125, 3.125, 8.4375, 3.4375 ], "texture": "#aybsall_demon" },
+				"south": { "uv": [ 8.125, 2.8125, 8.4375, 3.125 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 9, 9.1875, 9.8125, 9.5 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 9.8125, 9.1875, 10.625, 9.5 ], "texture": "#aybsall_demon" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 8.9, 2, 3.45 ],
+			"to": [ 11, 10.4, 5.55 ],
+			"rotation": { "origin": [ 11, 2, 4.5 ], "axis": "z", "angle": -22.5 },
+			"faces": {
+				"down": { "uv": [ 12.125, 8.4375, 12.5625, 8.875 ], "texture": "#aybsall_demon" },
+				"up": { "uv": [ 12.5625, 8.4375, 13, 8.875 ], "texture": "#aybsall_demon" },
+				"north": { "uv": [ 2.375, 3, 2.8125, 4.75 ], "texture": "#aybsall_demon" },
+				"south": { "uv": [ 2.8125, 11.75, 3.25, 13.5 ], "texture": "#aybsall_demon" },
+				"west": { "uv": [ 2.8125, 10, 3.25, 11.75 ], "texture": "#aybsall_demon" },
+				"east": { "uv": [ 1.9375, 11.75, 2.375, 13.5 ], "texture": "#aybsall_demon" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ -3, -7, 19 ],
+			"scale":  [ 1.375, 1.375, 1.375 ]
+		},
+		"gui": {
+			"rotation":  [ 30, 225, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"head": {
+			"translation":  [ 0, -26.41, 0 ],
+			"scale":  [ 2.2, 2.2, 2.2 ]
+		}
+	}
+}

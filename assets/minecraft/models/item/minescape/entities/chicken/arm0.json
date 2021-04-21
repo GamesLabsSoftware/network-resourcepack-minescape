@@ -1,0 +1,37 @@
+{
+	"__comment": "Designed by Scipio3000 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"chicken": "minescape/entities/chicken"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 5.9537, 4.0625, 5.4042 ],
+			"to": [ 4.9537, 7.0625, 9.1542 ],
+			"faces": {
+				"down": { "uv": [ 7, 5.5, 8, 9 ], "texture": "#chicken" },
+				"up": { "uv": [ 8, 9, 7, 5.5 ], "texture": "#chicken" },
+				"north": { "uv": [ 8.5, 8, 9.5, 11 ], "texture": "#chicken" },
+				"south": { "uv": [ 8.5, 8, 9.5, 11 ], "texture": "#chicken" },
+				"west": { "uv": [ 5.40422, 8.9375, 9.15422, 11.9375 ], "texture": "#chicken" },
+				"east": { "uv": [ 8.5, 8, 12, 11 ], "texture": "#chicken" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 2.90746, -3.55844, 12.8 ],
+			"scale":  [ 2, 2, 2 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ -4.40746, -3.55844, 12.8 ],
+			"scale":  [ 2, 2, 2 ]
+		},
+		"head": {
+			"translation":  [ 7.851936, 4.48, 2.493504 ],
+			"scale":  [ 3.2, 3.2, 3.2 ]
+		}
+	}
+}

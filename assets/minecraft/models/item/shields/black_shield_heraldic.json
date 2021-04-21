@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"0": "shields/black_shield_heraldic"
+	},
+	"parent": "item/shields/kiteshield"
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/minescape/capes/skilling_cape",
+	"textures": {
+		"texture": "capes/prayer",
+		"particle": "minescape/ui/skill_prayer"
+	}
+}

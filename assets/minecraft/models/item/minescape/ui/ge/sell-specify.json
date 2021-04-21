@@ -1,0 +1,22 @@
+{
+	"textures": {
+		"texture": "minescape/ui/ge/sell-specify"
+	},
+	"elements": [
+		{
+			"__comment": "Element",
+			"from": [ -16, -16, 16 ],
+			"to": [ 32, 16, 16.001 ],
+			"faces": {
+				"north": { "uv": [ 16, 16, 0, 5.333333333 ], "texture": "#texture", "rotation": 180 },
+				"south": { "uv": [ 0, 5.333333333, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation":  [ -72.02, 72.05, -80 ],
+			"scale":  [ 3.38, 3.38, 3.38 ]
+		}
+	}
+}

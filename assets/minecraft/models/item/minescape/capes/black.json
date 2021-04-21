@@ -1,0 +1,7 @@
+{
+	"parent": "item/minescape/capes/cape",
+	"textures": {
+		"texture": "capes/black",
+		"particle": "all/menu/background"
+	}
+}

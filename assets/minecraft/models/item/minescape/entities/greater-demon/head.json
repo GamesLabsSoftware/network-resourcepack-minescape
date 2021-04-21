@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/entities/black-demon/head",
+	"textures": {
+		"0": "minescape/entities/greater-demon"
+	}
+}

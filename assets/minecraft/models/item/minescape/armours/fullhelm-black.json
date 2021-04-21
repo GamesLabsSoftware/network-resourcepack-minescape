@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/armours/fullhelm-adamant",
+	"textures": {
+		"0": "minescape/armours/blackfullhelm"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "armours/elegant_chestplate",
+    "layer1": "armours/elegant_chestplate_overlay"
+  }
+}

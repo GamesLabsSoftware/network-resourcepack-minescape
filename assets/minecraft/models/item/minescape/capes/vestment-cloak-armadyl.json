@@ -1,0 +1,6 @@
+{
+	"parent": "item/minescape/capes/vestment-cloak",
+	"textures": {
+		"6": "capes/vestment-cloak-armadyl"
+	}
+}

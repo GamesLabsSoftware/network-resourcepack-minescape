@@ -1,0 +1,7 @@
+{
+	"parent": "item/minescape/armours/magic/mystichat",
+	"textures": {
+		"0": "minescape/armours/magic/mystichat_trimmed",
+		"particle": "minescape/armours/magic/mystichat_trimmed"
+	}
+}

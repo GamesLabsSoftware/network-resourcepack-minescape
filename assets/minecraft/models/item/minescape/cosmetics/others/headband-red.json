@@ -1,0 +1,6 @@
+{
+	"textures": {
+		"0": "minescape/cosmetics/others/headband-red"
+	},
+	"parent": "item/minescape/cosmetics/others/headband-black"
+}

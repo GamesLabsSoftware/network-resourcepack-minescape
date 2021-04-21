@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "armours/leather_dhide_leggings",
+    "layer1": "armours/leather_dhide_gold_leggings"
+  }
+}
